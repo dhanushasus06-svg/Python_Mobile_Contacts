@@ -15,22 +15,6 @@ A simple CLI-based Contact Management System built using Python. This project al
 * Functions
 * Loops & Conditional Statements
 
-## How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/dhanushasus06-svg/Python_Mobile_Contacts.git
-```
-
-2. Run the program:
-
-```
-python Project4_Intermediate.py
-```
-
----
-
 ## Future Improvements
 * Add file storage (save contacts permanently)
 * Add edit contact feature
