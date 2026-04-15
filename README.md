@@ -23,16 +23,10 @@ A simple CLI-based Contact Management System built using Python. This project al
 git clone https://github.com/dhanushasus06-svg/Python_Mobile_Contacts.git
 ```
 
-2. Navigate to the folder:
+2. Run the program:
 
 ```
-cd Python_Mobile_Contacts
-```
-
-3. Run the program:
-
-```
-python contact_book.py
+python Project4_Intermediate.py
 ```
 
 ---
